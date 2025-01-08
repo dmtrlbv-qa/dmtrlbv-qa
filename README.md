@@ -71,6 +71,8 @@
 --> 
 
 ## 🤝 Контакт
-Почта: op@vk.com
-Telegram: https://t.me/dmtrlbv
-ВКонтакте: https://vk.com/dmtr
+<ul>
+  <li>Почта: dmtrlbv@yandex.ru</li>
+  <li><a href="https://t.me/dmtrlbv">Telegram</li>
+  <li><a href="https://vk.com/dmtr">ВКонтакте</li>
+</ul>

@@ -1,16 +1,8 @@
-## Hi！
-Я Дмитрий, QA Engineer
-
 ## 📊 Статистика
 
 ![](https://github-readme-activity-graph.vercel.app/graph?&theme=minimal&username=dmtrlbv-qa)
 
-<!-- Выбор темы ↑↑: https://github.com/Ashutosh00710/github-readme-activity-graph/blob/main/THEMES.md --> 
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&langs_count=6&hide_progress=true&username=dmtrlbv-qa)
-
-<!-- Выбор темы ↑↑: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md --> 
-<!-- Настройка отображения ↑↑: https://github.com/anuraghazra/github-readme-stats/ --> 
 
 <br>
 
@@ -69,10 +61,6 @@
   <img src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" title="GitLab" alt="GitLab" width="40" height="40"/>&nbsp
 </div>
 
-<!-- Выбор картинок ↑↑: https://github.com/tandpfun/skill-icons --> 
-<!-- Ещё выбор картинок ↑↑: https://github.com/marwin1991/profile-technology-icons/ --> 
-
-
 <br>
 <!-- 
 ## 🎒 Образование
@@ -85,5 +73,3 @@
 ## 🤝 Контакт
 [![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:op@vk.com)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/dmtrlbv)
-
-<!-- Документация по виджету контактов ↑↑ https://shields.io/badges --> 

@@ -66,11 +66,10 @@
   <img src="https://user-images.githubusercontent.com/68279555/200387386-276c709f-380b-46cc-81fd-f292985927a8.png" title="Cypress" alt="Cypress" width="40" height="40"/>&nbsp
   <img src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" title="GitLab" alt="GitLab" width="40" height="40"/>&nbsp
 </div>
-
 <br>
+
 ## 🎒 Образование
 [<img src="/diploma.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/dmtrlbv-qa/dmtrlbv-qa/refs/heads/main/diploma.png)
-
 <br>
 <br>
 

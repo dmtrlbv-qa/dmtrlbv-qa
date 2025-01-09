@@ -68,13 +68,11 @@
 </div>
 
 <br>
-<!-- 
 ## 🎒 Образование
-[<img src="/diploma_en2.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/German-D/German-D/main/diploma_en2.png)
+[<img src="/diploma.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/dmtrlbv-qa/dmtrlbv-qa/refs/heads/main/diploma.png)
 
 <br>
 <br>
---> 
 
 ## 🤝 Контакт
 <ul>
